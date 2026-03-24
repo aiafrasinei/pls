@@ -4,6 +4,7 @@ Programming Languages Study
 
 Comparisons of various programming languages.
 
+* ada
 * assembly
 * awk
 * bash
@@ -22,6 +23,7 @@ Comparisons of various programming languages.
 * ml
 * pascal
 * perl
+* php
 * prolog
 * python
 * R
@@ -40,5 +42,7 @@ Sections:
 VARIABLES
 
 FUNCTIONS
+
+PROGRAMMING
 
 HISTORY

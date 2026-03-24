@@ -2,14 +2,19 @@
 
 A function for the sum of 2 numbers
 
+* **ada**
+
+``` ada
+function sum (a,b : Integer) return Integer
+is
+begin
+   return a + b;
+end Func;
+```
 
 * **assembly**
 
-``` awk
-sum:
-    mov rax, rdi
-    add rax, rsi
-    ret
+``` asm
 ```
 
 * **awk**
@@ -162,6 +167,15 @@ sub sum {
     return $a + $b;
 }
 ```
+
+* **php**
+
+``` php
+function sum($a, $b) {
+    return $a + $b;
+}
+```
+
 
 * **prolog**
 * **python**

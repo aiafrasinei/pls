@@ -2,6 +2,11 @@
 
 Variables declaration, assignement, scope
 
+* **ada**
+``` ada
+age : Integer := 2
+a,b : Integer := 0
+```
 
 * **assembly**
 * **awk**
@@ -157,6 +162,13 @@ angle: real = 2.0;
 * **perl**
 
 ``` perl
+$text = "Text";
+$age = 2;
+```
+
+* **php**
+
+``` php
 $text = "Text";
 $age = 2;
 ```
