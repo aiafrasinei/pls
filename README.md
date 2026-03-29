@@ -1,8 +1,11 @@
 # PLS
 
-Programming Languages Study
+This is my Programming Languages Study
 
 Comparisons of various programming languages.
+To get insights into programming language design.
+
+List of programming languages:
 
 * ada
 * assembly
@@ -39,10 +42,18 @@ https://rosettacode.org/wiki/Rosetta_Code
 
 Sections:
 
-VARIABLES
+VARIABLES.md
 
-FUNCTIONS
+FUNCTIONS.md
 
-PROGRAMMING
+PROGRAMMING.md
 
-HISTORY
+HISTORY.md
+
+**TOPICS** contains examples to compare
+
+**RESEARCH** research
+
+**LINKS** usefull links
+
+**HOWTOS** learn some of the programming languages

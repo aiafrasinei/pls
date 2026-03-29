@@ -19,7 +19,7 @@ gforth hello.fs -e bye
 
 ### words:
 .s
-print stack , no distructive
+print stack , not destructive
 
 .
 print and remove last element in the stack
